@@ -1,4 +1,4 @@
 # todo-app
-simple todo app learned from modern javascript course <br>
+simple todo app course <br>
 
 check it out: https://akamprogramist.github.io/todo-app/
